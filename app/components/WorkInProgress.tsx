@@ -13,7 +13,7 @@ function WorkInProgress() {
         },
       };
   return (
-    <div>
+    <div className="text-white">
         Work In Progress
     </div>
   )
